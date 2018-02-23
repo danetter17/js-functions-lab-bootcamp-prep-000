@@ -8,7 +8,5 @@ function happyHolidaysTo(name) {
 };
 
 function happyHolidayTo(holiday, name) {
-  let holiday = ('Easter')
-  let name = ('Laura')
-  return "Happy " + '${holiday}' +  ' ${name}';
+  return "Happy " + 'Independence Day' +  ' you!';
 };
